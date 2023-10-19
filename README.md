@@ -4,7 +4,7 @@ Soy un apasionado [tu trabajo] con experiencia en [tus habilidades]. Mi objetivo
 
 ## Experiencia
 
-- **[Nombre de la Empresa o Proyecto]** (Ubicación)
+- **[Nombre de la Empresa o Proyecto]** SENA
   - [Descripción de tus responsabilidades y logros]
 
 - **[Nombre de la Empresa o Proyecto]** (Ubicación)
