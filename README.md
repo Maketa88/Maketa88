@@ -13,7 +13,7 @@ Soy un apasionado [tu trabajo] con experiencia en [tus habilidades]. Mi objetivo
 ## Habilidades
 
 - Desarrollo web con HTML, CSS y JavaScript.
-- Desarrollo de aplicaciones móviles con React Native.
+
 - Bases de datos SQL y NoSQL.
 - Control de versiones con Git y GitHub.
 
