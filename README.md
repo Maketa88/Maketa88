@@ -44,12 +44,6 @@
 
 
 materias en curso
-<!--- Materias en curso (proyecto) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
   <br></br>
