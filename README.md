@@ -44,7 +44,7 @@
 
 
 
-<!--- Materias en curso (start) -->
+<!--- Materias en curso (proyecto) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
