@@ -35,7 +35,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 MATERIAS EN CURSO : **C#, BASE DE DATOS, GITHUB, INGLES, PYTHON, ETICA.**
 
 - 📫 Correo electronico personal **brayanstevengutierrezhiguita@gmail.com**
 
