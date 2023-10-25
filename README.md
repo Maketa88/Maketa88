@@ -29,7 +29,7 @@
 <!--Intro start-->
 - 🔭 Actualmente estoy estudiando en el Sena centro de comercio y turismo Armenia,Quindio
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 **Me encuentro en el segundo trimestre de la tecnologia.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
