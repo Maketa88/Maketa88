@@ -27,7 +27,7 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy estudianto en el Sena cento de comercio y turismo Armenia,Quindio
+- 🔭 Actualmente estoy estudianto en el Sena centro de comercio y turismo Armenia,Quindio
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
