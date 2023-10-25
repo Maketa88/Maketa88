@@ -27,11 +27,11 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy estudiando en el Sena centro de comercio y turismo Armenia,Quindio
+- 🔭 Actualmente estoy estudiando una tecnologia de analisis y desarrollo de software 
 
-- 🌱 **Me encuentro en el segundo trimestre de la tecnologia.**
+- 🌱 **Me encuentro en el segundo trimestre.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ APASIONADO POR LA **PROGRAMACION**
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
