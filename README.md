@@ -77,7 +77,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias conocidas 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">TECNOLOGIAS CONOCIDAS 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -92,7 +92,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">CONECTATE CONMMIGO🤝</h2></summary>
   </ul>
 </div>
 
