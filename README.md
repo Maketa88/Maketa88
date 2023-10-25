@@ -27,8 +27,7 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy estudiando una tecnologia de analisis y desarrollo de software 
-
+- 🔭 ACTUALMENTE ESTOY EN EL SEGUNDO TRIMESTRE DE ANALISIS Y DESARROLLO DE SOFTWARE
 - 🌱 **Me encuentro en el segundo trimestre.**
 
 - ☁️ APASIONADO POR LA **PROGRAMACION**
