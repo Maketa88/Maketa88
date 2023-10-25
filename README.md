@@ -43,7 +43,7 @@
 <!--Intro end-->
 
 
-materias en curso
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
