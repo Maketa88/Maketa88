@@ -37,7 +37,7 @@
 
 
 
-- 📫 Correo electronico personal **brayanstevengutierrezhiguita@gmail.com**
+- 📫  Correo electronico personal **brayanstevengutierrezhiguita@gmail.com**
 
 
 <!--Intro end-->
