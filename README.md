@@ -27,7 +27,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 Actualmente estoy estudianto en el Sena cento de comercio y turismo Armenia,Quindio
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
