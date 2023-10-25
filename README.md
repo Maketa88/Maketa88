@@ -44,7 +44,7 @@
 
 
 
-<!--- stats & Trophy (start) -->
+<!--- Materias en curso (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
