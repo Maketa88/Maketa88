@@ -35,8 +35,6 @@
 - 📝 **UN BUEN DESARROLADOR DE SOFTWARE TRABAJA CON DISCIPLINA Y CONSTANCIA DESDE EL PRIMER DIA**
 - 🏠 **FRASE DEL DIA** TIENES EL PODER DE CREAR LA VIDA DE TUS SUEÑOS
 
-
-
 - 📫  Correo electronico personal **brayanstevengutierrezhiguita@gmail.com**
 
 
